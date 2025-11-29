@@ -1,0 +1,11 @@
+*.log
+*.json
+*.tmp
+*.swp
+*.rar
+*.txt
+*.pth
+*.pkl
+*.zip
+D:\code\项目\Ele.me-Smart-Order\ASR\train\FunASR
+*jsonl
